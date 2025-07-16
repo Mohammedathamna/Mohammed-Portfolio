@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Software Engineer based in Gaza, Palestine. I specialize in UI design, web application development and maintenance.",
   lang: "en",
-  siteLogo: "/public/mohammed.jpg",
+  siteLogo: "/public/mohammed.png",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -19,7 +19,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "FaceBook", href: "https://www.facebook.com/alathamna.mohammad" },
     { text: "Twitter", href: "https://x.com/mohammadathamna" },
   ],
-  socialImage: "/public/me (2).jpg",
+  socialImage: "/public/me (2).png",
   canonicalURL: "https://mhmdathamna.vercel.app",
 };
 
